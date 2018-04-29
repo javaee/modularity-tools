@@ -80,11 +80,11 @@
         </plugins>
     </build>
     <dependencies>
-        <dependency>
+        <!--<dependency>
             <groupId>org.glassfish.hk2</groupId>
             <artifactId>core</artifactId>
             <version>2.1.28</version>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>org.glassfish.hk2</groupId>
             <artifactId>osgi-adapter</artifactId>
@@ -102,11 +102,11 @@
             <version>4.3.0</version>
             <scope>provided</scope>
         </dependency>
-       <dependency>
+       <!--<dependency>
             <groupId>org.glassfish.hk2</groupId>
             <artifactId>hk2-deprecated</artifactId>
             <version>2.1.28</version> 
-       </dependency>
+       </dependency>-->
     </dependencies>
     <developers>
         <developer>
